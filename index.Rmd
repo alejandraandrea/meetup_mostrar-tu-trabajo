@@ -1,0 +1,558 @@
+---
+title: "Muestra tu trabajo"
+subtitle: "Club de Lectura: Data Feminism"
+author: "Alejandra  Tapia Silva"
+institute: "RLadies Talca"
+date: "18/01/2022"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js 
+    css: ["default","rladies","lucy-fonts","custom.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class:center
+
+## `7º Principio: Hacer visible el trabajo`
+
+.center[<img src=imgs/portada_libro.png width="40%">
+<img src=imgs/portada_guía.png width="35%">
+]
+
+
+
+---
+class: center, middle
+## Hacer visible el trabajo
+
+###`El trabajo de la ciencia de datos, como todo trabajo en el mundo, es el trabajo de muchas manos. El feminismo de datos visibiliza esta labor para que sea reconocida y valorada.`
+
+
+---
+class: left
+
+## `Lo que veremos hoy:` 
+
+### > Hacer visible el trabajo
+   
+### > El trabajo invisible de la ciencia de datos 
+  
+### > Examinar la producción de datos
+   
+### >  Acreditación del trabajo de datos
+
+### > Acreditación del trabajo emocional y del cuidado
+
+### > Muestra tu trabajo
+
+
+---
+class: left
+
+## `Hacer visible el trabajo` 
+
+### > Si trabaja con código, es probable que tenga una cuenta de Github. 
+
+--
+### > Github es una plataforma de escritura y gestión de códigos en línea colaborativa.
+
+--
+### > En 2018 tenía más de veintiocho millones de usuarios en todo el mundo, al permitir a los usuarios trabajar fácilmente en equipo en diversos proyectos de cualquier tamaño. 
+
+---
+class: left
+
+## `Hacer visible el trabajo` 
+  
+### > ... pero "fácilmente" sólo si eres hombre.
+
+--
+### > Un estudio de 2016 encontró que las mujeres tenían menos probabilidades de que se aceptaran sus contribuciones si se identificaban en sus perfiles de usuario como mujeres. 
+
+### > El estudio no consideró los géneros no binarios.
+
+
+---
+class: left
+
+## `Hacer visible el trabajo` 
+
+### > GitHub tiene varios problemas importantes de cultura corporativa que debe abordar:
+
+--
+### * Falta de inclusión en las políticas internas de la empresa. 
+   
+### * El cofundador de GitHub en 2014, se vio obligado a renunciar tras acusaciones de acoso sexual.
+
+---
+class: left
+
+## `Hacer visible el trabajo` 
+
+### * Coraline Ada Ehmke en 2017, desarrolladora de software de código abierto y creadora de códigos de conducta, fue despedida después de un año de trabajo en Github. Posteriormente, publica un artículo criticando la real cultura corporativa de GitHub. 
+
+### * Agnes Pak en 2018, ex abogada de GitHub, fue despedida tras demandar a la compañía por alterar sus evaluaciones de desempeño. 
+   
+   
+---
+class: left
+
+## `Hacer visible el trabajo` 
+
+### > Ahora, a pesar de que la cultura corporativa es hostil para las mujeres y otros géneros, no necesariamente excluye otros haceres feministas. 
+
+### > Aquí, GitHub hace una contribución importante, pues su plataforma ayuda a mostrar el trabajo de escribir código colaborativo (a pesar de la cultura corporativa). 
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > También genera visualizaciones de las contribuciones de cada miembro del equipo al código base de un proyecto. 
+
+.center[<img src=imgs/fig_7_1_a.png width="60%">]
+
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > Revela patrones en el día de la semana en que se realizaron esas contribuciones.
+
+.center[<img src=imgs/fig_7_1_b.png width="60%">]  
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > Entrega un diagrama de flujo de las relaciones entre varias ramas del código del proyecto para reconocer las fuentes del proyecto que de otro modo no se conocerían. 
+
+.center[<img src=imgs/fig_7_1_c.png width="55%">]
+
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > Codificar es un trabajo, como bien sabe cualquiera que haya programado algo.
+
+--
+### > Pero no siempre es un trabajo fácil de ver. 
+
+--
+### > Lo mismo ocurre con la recolección, análisis y visualización datos.
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > Tendemos a maravillarnos por visualizaciones interactivas como, por ejemplo, el mapa de barcos que traza las rutas de la flota mercante a nivel global, ver https://www.shipmap.org/
+
+.center[<img src=imgs/fig_7_2.png width="55%">]
+
+
+---
+class: left
+
+## `Hacer visible el trabajo`
+
+### > Visualizaciones como el mapa de barcos implican el trabajo de muchas manos.
+
+--
+### > Es cierto que esta información a veces es difícil de generar, tanto por la falta de recursos económicos como el tiempo.
+
+--
+### > Pero las diversas dificultades que encontramos al tratar de reconocer este trabajo reflejan un problema mayor en lo que respecta a la información.
+
+---
+class:left
+
+## `Hacer visible el trabajo`
+
+### > Miriam Posner, investigadora de la Universidad de California, argumenta que el trabajo invisible involucrado en el trabajo con datos, es algo que las corporaciones tienen interés en mantener fuera de la vista del público.
+
+--
+### > No es una coincidencia que gran parte del trabajo que se realiza (recolección, visualización, modelamiento, aplicación) permanezca invisible y sin acreditar. 
+
+
+---
+class:left
+
+## `Hacer visible el trabajo`
+
+### > En nuestra sociedad capitalista, tendemos a valorar con un precio ($) el trabajo que podemos ver, atribuyéndole un mayor valor si lo podemos obtener. 
+
+--
+### > Ahora, lo contrario también es cierto: no logramos reconocer el valor de los servicios que obtenemos de forma gratuita.
+
+---
+class:left
+
+## `Hacer visible el trabajo`
+
+### Por ejemplo, 
+
+### * El trabajo doméstico de las mujeres es invisible y sesgado por la raza y el género. 
+
+### * El trabajo invisible no remunerado de nuestros me gusta y publicaciones en Facebook e Instagram y de nuestros tweets en Twitter es precisamente lo que permite que estas empresas se beneficien y prosperen.
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### > El mundo de la ciencia de datos también puede beneficiarse y prosperar gracias al trabajo invisible no remunerado. 
+
+--
+### > Crowdsourcing: Colaboración abierta que consiste en externalizar tareas que tradicionalmente realizaban empleados o contratistas, dejándolas a cargo de un grupo numeroso de personas o de una comunidad, a través de una convocatoria abierta.
+
+
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+--
+### > Estos proyectos se enmarcan como actos de benevolencia. "La gente debería querer contribuir a estos proyectos, afirmaron sus proponentes, ya que su trabajo promovería el bien público". Algunos ejemplos son:
+
+--
+### * La mejora en el algoritmo de recomendación de películas de Netflix, y el análisis de texto de dos millones de documentos sobre el mal gasto del gobierno por The Guardian. 
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### * La plataforma Mechanical Turk de Amazon (MTurk), promociona su acceso a un mercado global de "trabajadores bajo demanda", que se anuncian como más "escalables y rentables" que el proceso" lento y costoso" de contratar empleados reales.
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### * Estas formas de trabajo mal remunerado también se da en empresas como Google, donde trabajadores encargados de escanear los libros para la base de datos de Google Books son contratados como una clase de empleado separada y desigual en cuanto a los beneficios y accesos. 
+
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### > Los trabajadores de datos culturales son responsables del trabajo invisible involucrado en moderar el verdadero diluvio de contenido producido en línea todos los días, asegurando que su feed de Facebook esté libre de, por ejemplo, pornografía infantil y videos de propaganda violenta. 
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### > El estudio Ghost Work, de la antropóloga Mary Gray y el informático Siddharth Suri, han documentado la existencia de una gran "subclase global" que realiza este trabajo de moderación de contenido, transcripción y subtítulos. Señalan que la llamada automatización de la `IA` se basa en una gran cantidad de seres humanos en el circuito. 
+
+---
+class:left
+
+## `El trabajo invisible de la ciencia de datos`
+
+### > Volvamos a Github. Si fueras mujer y sabes que las contribuciones a un proyecto de programación tienen menos probabilidades de ser aceptadas que si fueras un hombre, ¿eso te motivaría a contribuir con el proyecto? 
+
+--
+### > Investigaciones han constatado la misma situación para Wikipedia.  
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### > Nuestra actual infraestructura tecnológica sigue este mismo patrón de explotación que el de la esclavitud. 
+
+--
+### > Las fuerzas capitalistas y coloniales que fomentan la explotación de los cuerpos negros y morenos para que los cuerpos blancos puedan prosperar.
+
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### > Las fuerzas del capitalismo global pueden sentirse abrumadoras. Y como personas que utilizan datos y tecnología en nuestro trabajo diario, todos somos cómplices en diversos grados. 
+
+### > Pero hay ciertas pequeñas cosas que podemos hacer en nuestro trabajo, y en nuestro trabajo con otros, para hacer frente a este peso. Por ejemplo:
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### 1. Incorporar un examen del poder en un proyecto de análisis de datos (caps. 1 y 2).
+
+--
+### 2. Rechazar las lógicas binarias y las jerarquías falsas (cap. 4).
+
+--
+### 3. Incluir voces múltiples y marginadas en el proceso de diseño (cap. 5).
+
+--
+### 4. Contextualizar los datos para que no se imagine que “hablan por sí mismos” (cap. 6).
+
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### > También existe una creciente área de investigación denomominada "producción de datos".
+
+### > La cual estudia el trabajo de la ciencia de datos, rastreando visualizaciones, algoritmos y bots de sus fuentes humanas y materiales. 
+
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### > La académica de estudios de medios Miranda Banks ha afirmado que “los estudios de producción son una metodología feminista"
+
+### > Debido a que prestan especial atención a las diferencias de poder involucradas en el proceso de producción de los medios, así como las condiciones materiales de quienes trabajan en esto.
+
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### Por ejemplo,
+
+### *El proyecto "Anatomy of an AI System" (https://anatomyof.ai/) de la investigadora en tecnología Kate Crawford y el diseñador Vladlan Joler que busca describir y diagramar el trabajo humano, las dependencias de datos y los recursos materiales que contribuyen a un solo Amazon Echo (asitente personal). 
+
+### Esta es una investigación y exposición del trabajo invisible involucrado en la fabricación de un sólo producto a escala global.
+
+---
+class:left
+## "Anatomy of an AI System"
+.center[<img src=imgs/fig_7_5_a.png width="38%">
+<img src=imgs/fig_7_5_b.png width="38%">
+<img src=imgs/fig_7_5_c.png width="38%">
+]
+
+---
+class:left
+
+## `Examinar la producción de datos`
+
+### >  Detrás de la magia y el marketing de los productos de datos, siempre hay trabajo oculto, a menudo realizado por mujeres y personas de color, que es tanto una causa como un efecto del hecho de que este trabajo está infravalorado e infravalorado.
+
+### > El feminismo de datos busca visibilizar esta labor para que sea reconocida y valorada adecuadamente, y para que se reconozca su costo más real, para las personas y para el planeta.
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > El énfasis en dar crédito formal a una amplia gama de trabajos se deriva de las prácticas feministas de citación.
+
+### > La teórica feminista Sara Ahmed describe esta práctica como una forma de resistir frente a la invisibilización -intencionada o no -  por parte de ciertos tipos de personas, generalmente, cis, blancos y hombres.
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > Así, cuando se ocupan puestos importantes de trabajo en ciencia de datos, debemos prestar atención al trabajo no visible y las personas en él.
+
+--
+### > Esto no es una tarea fácil, incluso cuando se trabaja en un sólo proyecto de ciencia de datos (ciclo de vida).
+
+--
+### > Sin embargo, tomar medidas para documentar a todas las personas que trabajan en un proyecto, ayudar a garantizar que quede un registro de este trabajo después de que se haya completado el proyecto.
+
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > Por ejemplo,
+
+### *Next System Project es un grupo de investigación destinado a documentar y visualizar sistemas económicos alternativos en localidades de Filipinas, Canadá e India.
+
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > El informe emplea la metáfora visual de un iceberg. Esto es,
+.center[<img src=imgs/fig_7_6.png width="35%">
+]
+
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > Volvamos al ejemplo de GitHub, para preguntar qué formas adicionales de trabajo podrían contribuir a la producción de código, pero no pueden ser representadas por el esquema de visualización actual que GitHub emplea?
+
+--
+### > Trabajo de la dirección del proyecto, diseño del proyecto, escritura técnica, entre otros.
+
+---
+class:left
+
+##  `Acreditación del trabajo de datos`
+
+### > Otro ejemplo, 
+
+### * “A Brief Visual History of MARC Cataloging at the Library of Congress” visualiza cuándo los libros de la Biblioteca del Congreso ingresaron a su catálogo digital, además de las personas que trabajaron en esa configuración (http://sappingattention.blogspot.com/2017/05/a-brief-visual-history-of-marc.html). 
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+
+---
+class:left
+
+## `Acreditación del trabajo emocional y del cuidado`
+
+### > Además del trabajo invisible en ciencia de datos, existe otro trabajo invisible, debido a que las personas no estamos capacitadas para pensar en él como "trabajo".
+
+### > Esto es lo que se conoce como trabajo emocional, y es otra forma de trabajo que la teoría feminista ha ayudado a sacar a la luz.
+
+---
+class:left
+
+## `Acreditación del trabajo emocional y del cuidado`
+
+### > Por ejemplo,
+
+### * "Atlas of Caregiving" es un proyecto en curso que se esfuerza por visualizar el trabajo emocional y afectivo, que tiene como objetivo documentar el trabajo involucrado en el cuidado de un miembro de la familia con una enfermedad crónica (https://atlasofcaregiving.com/). 
+
+---
+class:left
+## "Atlas of Caregiving"
+.center[<img src=imgs/fig_7_8_a.png width="70%">
+<img src=imgs/fig_7_8_b.png width="90%">
+]
+
+---
+class:left
+## "Atlas of Caregiving"
+.center[
+<img src=imgs/fig_7_8_c.png width="100%">
+]
+
+---
+class:left
+
+## `Acreditación del trabajo emocional y del cuidado`
+
+### > En el ámbito laboral, también podríamos considerar el trabajo afectivo que requieren sobre todo las mujeres y los grupos minoritarios en todas las situaciones que deben enfrentar (ignorar, refutar, demostranción constante). 
+
+--
+### > Este trabajo emocional se debe hacer al mismo tiempo que realizan su trabajo, entonces la pregunta es: ¿hay formas de visualizar este trabajo y darle reconocimiento y crédito? 
+
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+
+---
+class:left
+
+## `Muestra tu trabajo`
+
+### > El trabajo con datos es parte de una ecología del conocimiento más amplia, que debe ser tanto sostenible como socialmente justa.
+
+--
+### > Debido a la gran cantidad de trabajo y complejidad que involucran los proyectos con datos o de ciencia de datos es necesario visibilizar el proceso de producción. 
+
+---
+class:left
+
+## `Muestra tu trabajo`
+
+### > Mostrar este trabajo es una componente esencial del `feminismo de datos`, y es la razón por la que `“mostrar tu trabajo”` es el séptimo y último principio de este libro.
+
+### > El feminismo de datos con este principio busca visibilizar y valorar el trabajo en el que se basa la ciencia de datos. 
+
+---
+class:left
+
+## `Muestra tu trabajo`
+
+### > Preguntas como: "¿A quién se le atribuye el trabajo? ¿Quién ha sido excluido o invisibilizado? permiten reflexionar sobre el proceso de producción, para tomar acciones que busquen esta visibilización, sobre todo para las mujeres y grupos minoritarios. 
+
+--
+### > Los desequilibrios de poder están en todas partes de la ciencia de datos: en nuestros conjuntos de datos, en nuestros productos de datos y en los entornos que permiten que nuestros datos funcionen.
+
+---
+class:left
+
+## `Muestra tu trabajo`
+
+### > Mostrar el trabajo es crucial para garantizar que el trabajo invisible y subvalorado reciba el crédito que se merece, así como para comprender el costo real y las consecuencias planetarias del trabajo de datos.
+
+---
+class:middle, center
+
+## `¿Quieres comentar?`
+
+---
+class:left
+
+## `Preguntas de la guía de estudio`
+
+### > ¿Cómo visibilizamos o "mostramos el trabajo"  de quienes participan en el proceso de producción de datos?
+
+--
+### > ¿Cómo nos aseguramos de que este trabajo sea suficientemente reconocido y valorado?
+
+--
+### > ¿Podemos hacer algo más para desafiar la causa fundamental de este trabajo infravalorado?
+
+
+
+---
+class: center, middle
+
+#`¡Gracias!`
+
+.center[<img src=imgs/R-Ladies_Talca_hex.png width="30%">]
+
+###### Presentación creada con el paquete [**xaringan**](https://github.com/yihui/xaringan) de [**Yihui Xie**](https://github.com/yihui) y el tema [**rladies**](https://github.com/rbind/apreshill/blob/master/static/slides/rladies-demo-slides.Rmd) de [**Alison Hill**](https://github.com/apreshill) 
+
+
