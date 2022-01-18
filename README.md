@@ -1,4 +1,4 @@
-# Club de lectura libro "Data Feminism" de Catherine D'ignazio y Lauren F. Klein
+# Club de lectura del libro "Data Feminism" de Catherine D'ignazio y Lauren F. Klein
 
 <!-- badges: start -->
 <!-- badges: end -->
